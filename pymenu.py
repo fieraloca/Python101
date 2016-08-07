@@ -56,6 +56,10 @@ class Menu:
 
     def authenticate(self):
         '''Authenticate OneDrive '''
+<<<<<<< HEAD
+        #self.onedrivemanager.Authenticate()
+=======
+>>>>>>> master
         pass
 
 
