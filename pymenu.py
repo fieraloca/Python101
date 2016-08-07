@@ -15,6 +15,7 @@ class Menu:
         Usage:
             a. Modify the constructor __init__ to add the new choices you have in your menu
             b. Add a new method to the class to perform the required action when the menu is selected.
+            c. Add the option to the display_menu() method
 
     """
 
