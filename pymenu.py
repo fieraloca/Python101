@@ -1,9 +1,21 @@
+# ------------------------------------
+# Console based menu application for python
+#
+# Authors: gruiz, et.at. <put your names here if credit wanted or needed..>
+# Aug 12th 2016
+# -------------------------------------
+
 import sys
 
 
 class Menu:
     """
         Display a menu and respond to choices when run.
+
+        Usage:
+            a. Modify the constructor __init__ to add the new choices you have in your menu
+            b. Add a new method to the class to perform the required action when the menu is selected.
+
     """
 
     def __init__(self):
@@ -56,10 +68,6 @@ class Menu:
 
     def authenticate(self):
         '''Authenticate OneDrive '''
-<<<<<<< HEAD
-        #self.onedrivemanager.Authenticate()
-=======
->>>>>>> master
         pass
 
 
