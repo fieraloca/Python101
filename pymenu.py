@@ -56,7 +56,7 @@ class Menu:
 
     def authenticate(self):
         '''Authenticate OneDrive '''
-        self.onedrivemanager.Authenticate()
+        pass
 
 
     def quit(self):
