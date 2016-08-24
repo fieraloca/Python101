@@ -1,0 +1,14 @@
+import Tkinter 
+
+
+
+root = Tkinter.Tk()
+
+#####
+# Create Model
+######
+radius_intvar = Tkinter.IntVar()
+radius_intvar.set(100) #initialize radius
+# center of circle
+x = 150 
+y = 150
